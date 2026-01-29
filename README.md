@@ -9,7 +9,7 @@ It helps users discover places, manage locations, and interact with nearby spots
 ##  App Screenshots
 
 <p align="center">
-  <img src="urbleess/login.jpg" alt="Login" width="300"/>
+  <img src="urbleess/login.jpeg" alt="Login" width="300"/>
   <img src="durbleess/home.jpg" alt="Home" width="300"/>
   <img src="urbleess/expore" alt="Explore" width="300"/>
   <img src="urbleess/explore" alt="Explore" width="300"/>
