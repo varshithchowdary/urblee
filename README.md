@@ -10,7 +10,7 @@ It helps users discover places, manage locations, and interact with nearby spots
 
 <p align="center">
   <img src="urbleess/login.jpeg" alt="Login" width="300"/>
-  <img src="durbleess/home.jpeg" alt="Home" width="300"/>
+  <img src="urbleess/home.jpeg" alt="Home" width="300"/>
   <img src="urbleess/expore.jpeg" alt="Explore" width="300"/>
   <img src="urbleess/explore.jpeg" alt="Explore" width="300"/>
   <img src="urbleess/settings.jpeg" alt="Settings" width="300"/>
