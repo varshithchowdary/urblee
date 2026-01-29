@@ -8,21 +8,13 @@ It helps users discover places, manage locations, and interact with nearby spots
 
 ##  App Screenshots
 
-### Login
-![Login](urbleess/login.png)
-
-### Home
-![Home](urbleess/home.png)
-
-### Explore
-![Explore](urbleess/expore.png)
-
-![Explore](urbleess/explore.png)
-
-### Settings
-![Settings](urbleess/settings.png)
-
-
+<p align="center">
+  <img src="urbleess/login.jpg" alt="Login" width="300"/>
+  <img src="durbleess/home.jpg" alt="Home" width="300"/>
+  <img src="urbleess/expore" alt="Explore" width="300"/>
+  <img src="urbleess/explore" alt="Explore" width="300"/>
+  <img src="urbleess/settings" alt="Settings" width="300"/>
+</p>
 ---
 
 ##  Tech Stack
